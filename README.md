@@ -83,7 +83,7 @@ Important Points
 ## **Conclusion**
 The "Online Grocery Store" application provides a user-friendly interface for customers to shop for groceries, view their cart, and calculate their total bill. The code structure, functions, and user interface make it a convenient simulation of an online grocery store.
 
-
+## **CODE**
 ![image](https://github.com/RitvikArora22070123094/Shopping_Cart/assets/139522395/ee1b20f1-555f-4c4b-a7bd-c1e510f06991)
 ![image](https://github.com/RitvikArora22070123094/Shopping_Cart/assets/139522395/2ad7643c-fd75-4d4d-b52d-92d456d12e63)
 ![image](https://github.com/RitvikArora22070123094/Shopping_Cart/assets/139522395/2a895e73-7eea-47b5-af81-ad9ac7a006e3)
@@ -91,7 +91,7 @@ The "Online Grocery Store" application provides a user-friendly interface for cu
 ![image](https://github.com/RitvikArora22070123094/Shopping_Cart/assets/139522395/11886c93-ef31-4898-90fc-d636558d3084)
 ![image](https://github.com/RitvikArora22070123094/Shopping_Cart/assets/139522395/bb8ea1b4-38c0-4daa-80ea-8b04e5adcd6e)
 
-
+## **OUTPUT**
 ![image](https://github.com/RitvikArora22070123094/Shopping_Cart/assets/139522395/8cc57d30-74f7-4546-9d46-b9dda8853638)
 ![image](https://github.com/RitvikArora22070123094/Shopping_Cart/assets/139522395/f6d71e8b-f533-4bf8-9e3b-3163a2d3e0ba)
 
